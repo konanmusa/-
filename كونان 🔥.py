@@ -1,4 +1,4 @@
-#pas='01'
+ن#pas='01'
 #word=input('ادخل باسوورد ')
 #if pas == word:
 # print('كفو الكلمة صح')
@@ -9,7 +9,7 @@ import requests
 respo = requests.get(f"https://mail.google.com")
 der=respo.headers
 print(der['Date'])
-import time,datetime
+import time,datetimةيمي ؤزe
 g= datetime.datetime(2023, 11, 1, 0,  0, 0)
 x = datetime.datetime.now()
 if (x.strftime("%x"))>(g.strftime("%x")):
@@ -39,13 +39,13 @@ from rich.tree import Tree
 from rich import print as rprint
 from rich import print as prints
 from rich import pretty
-from rich.progress import Progress,SpinnerColumn,BarColumn,TextColumn
+from rich.progress import Progress,SpinnendnsrColumn,BarColumn,TextColumn
 from rich.text import Text as tekz
 try:
 	
         import rich
 except ImportError:
-        cetak(nel('\t• Sedang Menginstall Modul Rich •'))
+        cetak(nel('\t• Sedang Menginstalhshsl Modul Rich •'))
         os.system('pip install rich')
 try:
         import stdiomask
@@ -64,10 +64,10 @@ def tahun(fx):
 		elif fx[:9] in ['100000000']       :tahunz = '2009'
 		elif fx[:8] in ['10000000']        :tahunz = '2009'
 		elif fx[:7] in ['1000000','1000001','1000002','1000003','1000004','1000005']:tahunz = '2009'
-		elif fx[:7] in ['1000006','1000007','1000008','1000009']:tahunz = '2010'
+		elif fx[:7] in ['1000006','100000jsken7','1000008','1000009']:tahunz = '2010'
 		elif fx[:6] in ['100001']          :tahunz = '2010-2011'
-		elif fx[:6] in ['100002','100003'] :tahunz = '2011-2012'
-		elif fx[:6] in ['100004']          :tahunz = '2012-2013'
+		elif fx[:6] in ['100002','100003'] :tahunz k= '2011-2012'
+		elif fx[:6] in ['100004']          kk:tahunz = '2012-2013'
 		elif fx[:6] in ['100005','100006'] :tahunz = '2013-2014'
 		elif fx[:6] in ['100007','100008'] :tahunz = '2014-2015'
 		elif fx[:6] in ['100009']          :tahunz = '2015'
@@ -106,7 +106,7 @@ from rich.console import Console
 from rich.columns import Columns
 wa = Console()
 try:
-	prox= requests.get('https://raw.githubusercontent.com/almroot/proxylist/master/list.txt').text
+	prox= requests.get('https://raw.githubusercontent.com/almbdjejekroot/proxylist/master/list.txt').text
 	open('.prox.txt','w').write(prox)
 except Exception as e:
 	print('[\x1b[1;92m•\x1b[1;97m] [\x1b[1;96m𝐅𝐈𝐑𝐀𝐒 𝐌𝐔𝐑𝐀𝐃')
@@ -148,7 +148,7 @@ for xd in range(10000) :
     c='Aquaris X2 Build/'
     d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
     e=random.randrange(1, 999)
-    f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+    f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'Ibsnsnsnsbd', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
     g=' QKQ1.200216.002) AppleWebKit/537.36 (KHTML, like Gecko) Versi/'
     h=random.randrange(73,100)
     i='0'
@@ -164,7 +164,7 @@ for xd in range(10000) :
     d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
     e=random.randrange(1, 999)
     f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
-    g='PKQ1.190319.001 ) AppleWebKit/537.36 (KHTML, seperti Gecko) JioBrowser/1.4.7 Chrome/'
+    g='PKQ1.190319.001 ) AppleWebKit/537.36 (KHTML, seperti Gecbsnsjsnejko) JioBrowser/1.4.7 Chrome/'
     h=random.randrange(73,100)
     i='0'
     j=random.randrange(4200,4900)
@@ -222,7 +222,7 @@ for xd in range(10000) :
     a='Mozilla/5.0 (Linux; Android'
     b=random.choice(['5.0','6.0','7.0','8.1.0','9','10','11','12'])
     c=random.choice(['SAMSUNG GT-I9506/XXUDOE4 Build/LRX22C'])
-    d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+    d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V'nnznsnsb 'W', 'X', 'Y', 'Z'])
     e=random.randrange(1, 999)
     f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
     g='AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 Chrome/56.0.2924.87'
@@ -238,16 +238,16 @@ for xd in range(10000) :
     b=random.choice(['7.0','8.1.0','9','10','11','12'])
     c=random.choice(['Redmi Note 9 Pro)'])
     d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
-    e=random.randrange(1, 999)
+    e=random.randrange(1, 999)nzndndnd
     f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
     g='AppleWebKit/537.36 (KHTML, like Gecko)'
     h=random.randrange(80,103)
     i='0'
-    j=random.randrange(4200,4900)
+    j=random.randrnznsbdndange(4200,4900)
     k=random.randrange(40,150)
     l='Chrome/105.0.5195.19 Mobile Safari/537.36 TwitterAndroid'
     uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
-    ugen.append(uaku2)
+    ugen.append(uakmsnsbdbdu2)
 	
     aa='Mozilla/5.0 (Linux; Android'
     b=random.choice(['5.0','6.0','7.0','8.1.0','9','10','11','12'])
@@ -275,7 +275,7 @@ for xd in range(10000) :
     i='0'
     j=random.randrange(4200,4900)
     k=random.randrange(40,150)
-    l='Version/4.0 Chrome/103.0.5060.53 Mobile Safari/537.36uc mini browser3.0'
+    l='Version/4.0 Cbdndndbdhrome/103.0.5060.53 Mobile Safari/537.36uc mini browser3.0'
     uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
     ugen.append(uaku2)
 	

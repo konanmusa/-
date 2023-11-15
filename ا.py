@@ -1,3 +1,5 @@
+وقفتها ي ود سيكو بفهمك م تخاف 🤣🤣
+
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
 from rich.table import Table as me
